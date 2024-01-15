@@ -55,7 +55,7 @@ This library offers a collection of fundamental data structures implemented in J
 
 ## Clone the Repository
 
-In the terminal, use the followed command:
+In the terminal, use the following command:
 
 ```bash
 git clone https://github.com/mhdafs/datastructure.git
