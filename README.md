@@ -1,6 +1,6 @@
 # JavaScript Data Structure Library
 
-A simple JavaScript library providing commonly used data structures.
+Data structure is a way of organizing and storing data in a computer so that it can be accessed and used efficiently, A simple JavaScript library providing commonly used data structures.
 
 ## Overview
 
