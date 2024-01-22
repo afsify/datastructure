@@ -58,3 +58,8 @@ console.log(myHashTable.contains("age")); // Output: true
 
 myHashTable.remove("age");
 console.log(myHashTable.contains("age")); // Output: false
+
+// The load factor of a hash table is a measure of how full or empty it is.
+// It's the ratio of the number of stored elements to the total number of slots in the table.
+// A higher load factor means the table is more crowded, potentially leading to performance issues,
+// while a lower load factor suggests there is more available space.
